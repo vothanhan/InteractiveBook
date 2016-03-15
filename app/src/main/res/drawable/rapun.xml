@@ -1,0 +1,19 @@
+<animation-list
+    android:id="@+id/rapun"
+    android:oneshot="false"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/rapun1" android:duration="100" />
+    <item android:drawable="@drawable/rapun2" android:duration="100" />
+    <item android:drawable="@drawable/rapun3" android:duration="100" />
+    <item android:drawable="@drawable/rapun4" android:duration="100" />
+    <item android:drawable="@drawable/rapun5" android:duration="100" />
+    <item android:drawable="@drawable/rapun6" android:duration="100" />
+    <item android:drawable="@drawable/rapun7" android:duration="100" />
+    <item android:drawable="@drawable/rapun8" android:duration="100" />
+    <item android:drawable="@drawable/rapun9" android:duration="100" />
+    <item android:drawable="@drawable/rapun10" android:duration="100" />
+    <item android:drawable="@drawable/rapun11" android:duration="100" />
+    <item android:drawable="@drawable/rapun12" android:duration="100" />
+    <item android:drawable="@drawable/rapun13" android:duration="100" />
+<item android:drawable="@drawable/rapun14" android:duration="100" />
+</animation-list>

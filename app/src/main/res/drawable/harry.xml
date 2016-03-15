@@ -1,0 +1,9 @@
+<animation-list
+    android:id="@+id/harry"
+    android:oneshot="false"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/harry1" android:duration="100" />
+    <item android:drawable="@drawable/harry2" android:duration="100" />
+    <item android:drawable="@drawable/harry3" android:duration="100" />
+
+</animation-list>

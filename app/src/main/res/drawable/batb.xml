@@ -1,0 +1,20 @@
+<animation-list
+    android:id="@+id/batb"
+    android:oneshot="false"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/batb1" android:duration="100" />
+    <item android:drawable="@drawable/batb2" android:duration="100" />
+    <item android:drawable="@drawable/batb3" android:duration="100" />
+    <item android:drawable="@drawable/batb4" android:duration="100" />
+    <item android:drawable="@drawable/batb5" android:duration="100" />
+    <item android:drawable="@drawable/batb6" android:duration="100" />
+    <item android:drawable="@drawable/batb7" android:duration="100" />
+    <item android:drawable="@drawable/batb8" android:duration="100" />
+    <item android:drawable="@drawable/batb9" android:duration="100" />
+    <item android:drawable="@drawable/batb10" android:duration="100" />
+    <item android:drawable="@drawable/batb11" android:duration="100" />
+    <item android:drawable="@drawable/batb12" android:duration="100" />
+    <item android:drawable="@drawable/batb13" android:duration="100" />
+    <item android:drawable="@drawable/batb14" android:duration="100" />
+    <item android:drawable="@drawable/batb15" android:duration="100" />
+</animation-list>

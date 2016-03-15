@@ -1,0 +1,25 @@
+<animation-list
+    android:id="@+id/cinde"
+    android:oneshot="false"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/cinde1" android:duration="100" />
+    <item android:drawable="@drawable/cinde2" android:duration="100" />
+    <item android:drawable="@drawable/cinde3" android:duration="100" />
+    <item android:drawable="@drawable/cinde4" android:duration="100" />
+    <item android:drawable="@drawable/cinde5" android:duration="100" />
+    <item android:drawable="@drawable/cinde6" android:duration="100" />
+    <item android:drawable="@drawable/cinde7" android:duration="100" />
+    <item android:drawable="@drawable/cinde8" android:duration="100" />
+    <item android:drawable="@drawable/cinde9" android:duration="100" />
+    <item android:drawable="@drawable/cinde10" android:duration="100" />
+    <item android:drawable="@drawable/cinde11" android:duration="100" />
+    <item android:drawable="@drawable/cinde12" android:duration="100" />
+    <item android:drawable="@drawable/cinde13" android:duration="100" />
+    <item android:drawable="@drawable/cinde14" android:duration="100" />
+    <item android:drawable="@drawable/cinde15" android:duration="100" />
+    <item android:drawable="@drawable/cinde16" android:duration="100" />
+    <item android:drawable="@drawable/cinde17" android:duration="100" />
+    <item android:drawable="@drawable/cinde18" android:duration="100" />
+    <item android:drawable="@drawable/cinde19" android:duration="100" />
+
+</animation-list>
